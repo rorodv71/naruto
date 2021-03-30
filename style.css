@@ -1,0 +1,26 @@
+button{
+	background-color: #8A8987;
+	float: left;
+	border:1px;
+	padding: 16px 25px;
+	text-align: center;
+
+	}
+button:hover{
+	background-color: #4E4E4E;
+}
+
+body{
+
+	text-align: center;
+}
+.naruto{
+	background-color:#F7B593;
+}
+
+.index{
+	background-color:#F3C115;
+}
+.boruto{
+	background-color:#8058FF;
+}
